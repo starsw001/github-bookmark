@@ -115,6 +115,7 @@
 * [hmily](https://github.com/yu199195/hmily) - 高性能异步分布式事务TCC框架
 * [flyway](https://github.com/flyway/flyway) - 使数据库迁移变得简单
 * [nebula](https://github.com/vesoft-inc/nebula) - Nebula Graph 是一款开源的图数据库，擅长处理千亿个顶点和万亿条边的超大规模数据集
+* [snowflake](https://github.com/snowflakedb) - Snowflake 是一家云存储技术开发公司，旨在搭建一个基于云服务的新型数据库和数据处理架构，以此满足用户和数据处理层面的需求
 
 ## 缓存
 * [Redis](https://github.com/antirez/redis) - 可以当成数据库，缓存，消息队列使用的内存数据结构存储工具
@@ -484,6 +485,7 @@
 * [伴鱼技术团队](https://tech.ipalfish.com/blog/) - 伴鱼技术团队的技术博客
 * [夜空](https://www.jianshu.com/u/64f062dc305f) - 夜空的简书
 * [bugstack虫洞栈](https://bugstack.cn/) - 一个看着靠谱的小哥的技术沉淀
+* [Jiekun's Blog](https://jiekun.dev/posts/) - 一位爱学习的后辈的技术博客
 
 ## 游戏
 * [RetroArch](https://github.com/libretro/RetroArch) - 跨平台游戏模拟器
@@ -496,3 +498,4 @@
 * [PCSX2](https://pcsx2.net/) - PS2模拟器
 * [RPCS3](https://github.com/RPCS3/rpcs3) - PS3模拟器
 * [RetroPie](https://github.com/RetroPie) - 一个模拟器合集，可以将树莓派改造成一个模拟器
+* [lakka](http://www.lakka.tv/get/) - Lakka，一款树莓派可用的模拟器集合，界面很像 PS4
